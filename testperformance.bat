@@ -19,4 +19,4 @@ echo Makesure your power mode on performance mode
 pause
 echo off
 cls
-winsat prepop
+winsat formal
